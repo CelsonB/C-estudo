@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\c#\Portifolio\Encapsulamento\bin\Debug\Encapsulamento.dll
+C:\Users\Acer\Desktop\c#\Portifolio\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Acer\Desktop\c#\Portifolio\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\c#\Portifolio\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\c#\Portifolio\Encapsulamento\obj\Debug\Encapsulamento.dll
+C:\Users\Acer\Desktop\c#\Portifolio\Encapsulamento\obj\Debug\Encapsulamento.pdb
